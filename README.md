@@ -9,6 +9,8 @@ run:
 * npm install -g gulp // if needed
 
 # automate
-run below command to watch less directory and automatically convert .main.less files to css and move them to css folder (.main suffix is removed)
+run below command to automatically convert .main.less files to css and move them to the css folder
 
 * gulp watch 
+
+Note that .main suffix is removed and directory is watched for changes.
