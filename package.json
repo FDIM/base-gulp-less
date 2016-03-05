@@ -1,0 +1,17 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.*",
+    "gulp-concat": "^2.6.*",
+	"gulp-less": "^3.0.*",
+	"gulp-rename": "^1.2.2"
+	}
+}
